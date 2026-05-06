@@ -4,8 +4,6 @@
 
 ## Run
 
-Go is not currently installed on this machine. After installing Go:
-
 ```powershell
 go run .
 ```
